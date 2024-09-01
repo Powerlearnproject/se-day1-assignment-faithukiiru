@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15584854&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -54,12 +55,72 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall vs Agile Methodologies: A Comparison
 
+Waterfall and Agile methods offer two common ways to develop software.
 
+Waterfall Method
+
+The Waterfall method takes a step-by-step approach to software development. It follows a set order finishing each step before starting the next. These steps include:
+   Gathering requirements
+    Designing
+    Coding
+    Testing
+    Deploying
+    Maintaining
+advantages are :
+    Simple to manage and grasp
+    Steps happen one after another, making progress easy to track
+    Works well for projects with clear requirements
+    Needs less adaptability from the dev team
+disadvantages are :
+The project doesn't produce working software until it ends
+It's hard to change the project's scope or requirements once it's started
+There's a big risk if the requirements aren't clear or if the project's scope changes
+
+When Waterfall works well:
+    Projects with set clear-cut requirements
+    Projects with a small team or just one developer
+    Projects that need to finish and have a tight budget
+Agile Methodology
+    Step-by-Step and Bit-by-Bit: Agile breaks down projects into small doable chunks called sprints or iterations. Each chunk includes planning, building, testing, and looking things over.
+    Bendable: Agile rolls with the punches letting teams make changes and updates as they go along.
+    Working with Customers: Agile keeps customers in the loop getting their input often to make sure the product hits the mark.
+advantages are:
+
+   Bendable: Agile can handle changes in what's needed, which works well for projects that might shift gears.
+    Quick and Steady Results: Agile pumps out small working parts of the project one after another, which can pay off and keep on giving.
+    Customer Input: Regular check-ins keep the product on track with what customers want and expect.
+
+disadvantages are:
+Scope Creep: Projects can get out of hand if you don't keep a close eye on them, thanks to constant tweaks and add-ons.
+    Resource Hungry: Needs everyone involved to pitch in, which can eat up a lot of time and energy.
+    Harder to Pin Down: It's tough to nail down exact timelines and budgets because the process keeps going round and round.
+
+When It Works Best:
+    Ever-Changing Projects: Projects where you expect the to-do list to grow or you're not 100% sure what you need from the get-go.
+    Cutting-Edge Projects: Projects that deal with fresh tech or products where trying things out and making them better bit by bit pays off.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software developer :
+    To design and develop software applications and systems 
+    To collaborate with other developer in oder to create software solutions and new tech work.
+    To troubleshoot and debug issues in the code.
+    To refactor code for optimization and maintainability.
+    To analyze user needs and software requirements to determine practicability and design. 
+    To document code, APIs, and software features for future reference and maintenance.
+    Create technical documentation and user manuals.
+    Participate in code reviews and contribute to team meetings.
+    Stay updated with the latest programming languages, tools, and industry trends.
+    Implement best practices and new technologies to enhance development processes.
+
+Quality assurance engineer
+    
 
 
+    
+Create technical documentation and user manuals as needed.
+    
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
